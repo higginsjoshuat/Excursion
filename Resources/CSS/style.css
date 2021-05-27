@@ -11,7 +11,33 @@ h1 {
     text-align: center;
 }
 
+video {
+    object-fit: contain;
+    padding-top: 25px;
+}
+
+p {
+    color: grey;
+    font-family: verdana;
+    font-size: 21px;
+}
+
+footer {
+    text-align-last: right;
+    color: grey;
+    font-size: 24px;
+}
+
 .link {
     color: aquamarine;
     font-size: 16px;
+}
+
+.lowerTitle {
+    font-size: 42px
+    font-weight: 300;
+}
+
+#camp {
+    padding-bottom: 25px;
 }
